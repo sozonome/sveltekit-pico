@@ -4,7 +4,7 @@
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/sozonome/sveltekit-tw)
 
-This is a [Svelte Kit](https://kit.svelte.dev/) project bootstrapped with `create-svelte`, added with [**TailwindCSS**](https://tailwindcss.com) and [**TypeScript**](https://www.typescriptlang.org) setup.
+This is a [Svelte Kit](https://kit.svelte.dev/) project bootstrapped with `create-svelte`, added with [**PicoCSS**](https://picocss.com/) and [**TypeScript**](https://www.typescriptlang.org) setup.
 Start developing right away!
 
 ## 🔋⚡ Battery Packed template

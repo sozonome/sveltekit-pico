@@ -6,7 +6,7 @@
 
 <DefaultMetaTags />
 <Header />
-<main class="layout px-4 py-8">
+<main class="container">
 	<slot />
 </main>
 <Footer />

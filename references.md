@@ -9,9 +9,9 @@ SvelteKit setup
 - https://kit.svelte.dev/docs#layouts-error-pages
 - https://kit.svelte.dev/docs#layouts-error-pages
 
-TailwindCSS
+PicoCSS
 
-- https://codechips.me/tailwindcss-sveltekit-the-easy-way/
+- https://picocss.com/docs/
 
 Meta Tags
 

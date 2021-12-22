@@ -1,5 +1,11 @@
-<header class="layout p-4">
+<header class="container">
 	<a href="/">
-		<h1 class="text-xl font-black">sveltekit-tw</h1>
+		<h1>sveltekit-pico</h1>
 	</a>
 </header>
+
+<style>
+	header {
+		margin-top: 32px;
+	}
+</style>
