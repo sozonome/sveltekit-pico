@@ -1,4 +1,4 @@
-# sveltekit-tw
+# sveltekit-pico
 
 <!-- [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/sozonome/nextarter-chakra) [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sozonome/nextarter-chakra) -->
 
@@ -26,7 +26,7 @@ Start developing right away!
 You can either click `Use this template` button on this repository and clone the repo or directly from your terminal:
 
 ```bash
-npx degit sozonome/sveltekit-tw <YOUR_APP_NAME>
+npx degit sozonome/sveltekit-pico <YOUR_APP_NAME>
 ```
 
 Then, run the development server:

@@ -5,7 +5,7 @@
 <section>
 	<code>{'npx degit sozonome/sveltekit-pico <YOUR_APP_NAME>'}</code>
 
-	<Link href="https://github.com/sozonome/svelte-pico/generate" isExternal>
+	<Link href="https://github.com/sozonome/sveltekit-pico/generate" isExternal>
 		<button>Use This Template</button>
 	</Link>
 </section>
